@@ -268,6 +268,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
+* [Deployer](https://deployer.org/) - Deployment tool for PHP
+ * [How to deploy Laravel application](https://deployer.org/blog/how-to-deploy-laravel)
 
 ## Articles, Tutorials, Blogs etc.
 
